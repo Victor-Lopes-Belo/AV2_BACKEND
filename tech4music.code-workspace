@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "eureka_server",
+			"path": "eureka_server"
+		},
+		{
+			"name": "zuul_service",
+			"path": "zuul_service"
+		},
+		{
+			"name": "tech4music",
+			"path": "tech4music"
+		},
+		{
+			"name": "tech4singer",
+			"path": "tech4singer"
+		}
+	],
+	"settings": {
+		"java.help.shareDiagnostics": true,
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
